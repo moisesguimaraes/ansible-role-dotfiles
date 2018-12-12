@@ -1,6 +1,6 @@
 # Ansible Role: Dotfiles
 
-[![Build Status](https://travis-ci.org/moisesguimaraes/ansible-role-dotfiles.svg?branch=master)](https://travis-ci.org/moisesguimaraes/ansible-role-dotfiles)
+[![Build Status](https://travis-ci.com/moisesguimaraes/ansible-role-dotfiles.svg?branch=master)](https://travis-ci.com/moisesguimaraes/ansible-role-dotfiles)
 
 Installs a set of dotfiles from a given Git repository. By default, it will install my (moisesguimaraes') [dotfiles](https://github.com/moisesguimaraes/dotfiles), but you can use any set of dotfiles you'd like, as long as they follow a conventional format.
 
